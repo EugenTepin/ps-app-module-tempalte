@@ -1,0 +1,17 @@
+{
+  "name": "ps-app-module-tempalte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node ./utils/watch.js"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "jsonfile": "^4.0.0",
+    "mustache": "^2.3.0",
+    "watchify": "^3.11.0"
+  }
+}
