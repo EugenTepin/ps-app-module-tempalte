@@ -27,8 +27,8 @@ Template for jsx-scripts can be found [here](https://github.com/EugenTepin/ps-ap
 
 # Workflow
 
-1) Install:
-```git clone https://github.com/EugenTepin/ps-app-module-tempalte.git```
+1) Get files
+
 
 2) Fill in package.json, ```name``` and ```version``` is mandatory.
 
